@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "657703138290",
+    "firebase_url": "https://covid-19-1011f.firebaseio.com",
+    "project_id": "covid-19-1011f",
+    "storage_bucket": "covid-19-1011f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657703138290:android:dcf015ee47185e039d716b",
+        "android_client_info": {
+          "package_name": "com.fernandoguillen.covid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657703138290-u4373r0o4ut7tu4g49qki1hcmpsgrvmt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTB_bYiz1t4a5ZKEAcv9S4YgHR2bqZ3uM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657703138290-u4373r0o4ut7tu4g49qki1hcmpsgrvmt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "657703138290-a39o6tvcuieko38l4li10ctgaed9j09a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fernandoguillen.covid19"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657703138290:android:95242140afad3b3b9d716b",
+        "android_client_info": {
+          "package_name": "com.fernandoguillen.covid19"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657703138290-u4373r0o4ut7tu4g49qki1hcmpsgrvmt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTB_bYiz1t4a5ZKEAcv9S4YgHR2bqZ3uM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657703138290-u4373r0o4ut7tu4g49qki1hcmpsgrvmt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "657703138290-a39o6tvcuieko38l4li10ctgaed9j09a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fernandoguillen.covid19"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
