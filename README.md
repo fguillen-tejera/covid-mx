@@ -1,6 +1,6 @@
 # covid
 
-A new Flutter application.
+A Covid-19 Statistics app for Mexico, creating user Firebase Firestore.
 
 ## Getting Started
 
